@@ -1,1 +1,1 @@
-Several sort algorithms.
+Several sort algorithms implemented by java.
