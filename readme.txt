@@ -1,2 +1,1 @@
-Several sort algorithms implemented by java.
-Insert sort.
+由java实现的常见排序算法
